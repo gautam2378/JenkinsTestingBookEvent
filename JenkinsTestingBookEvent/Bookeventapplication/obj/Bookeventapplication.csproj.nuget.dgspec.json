@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gautam02\\Desktop\\Jenkinstestingassignment\\Bookeventapplication\\Bookeventapplication.csproj": {}
+    "C:\\Users\\gautam02\\Desktop\\Jenkinstestingassignment\\JenkinsTestingBookEvent\\Bookeventapplication\\Bookeventapplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gautam02\\Desktop\\Jenkinstestingassignment\\Bookeventapplication\\Bookeventapplication.csproj": {
+    "C:\\Users\\gautam02\\Desktop\\Jenkinstestingassignment\\JenkinsTestingBookEvent\\Bookeventapplication\\Bookeventapplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gautam02\\Desktop\\Jenkinstestingassignment\\Bookeventapplication\\Bookeventapplication.csproj",
+        "projectUniqueName": "C:\\Users\\gautam02\\Desktop\\Jenkinstestingassignment\\JenkinsTestingBookEvent\\Bookeventapplication\\Bookeventapplication.csproj",
         "projectName": "Bookeventapplication",
-        "projectPath": "C:\\Users\\gautam02\\Desktop\\Jenkinstestingassignment\\Bookeventapplication\\Bookeventapplication.csproj",
+        "projectPath": "C:\\Users\\gautam02\\Desktop\\Jenkinstestingassignment\\JenkinsTestingBookEvent\\Bookeventapplication\\Bookeventapplication.csproj",
         "packagesPath": "C:\\Users\\gautam02\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gautam02\\Desktop\\Jenkinstestingassignment\\Bookeventapplication\\obj\\",
+        "outputPath": "C:\\Users\\gautam02\\Desktop\\Jenkinstestingassignment\\JenkinsTestingBookEvent\\Bookeventapplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

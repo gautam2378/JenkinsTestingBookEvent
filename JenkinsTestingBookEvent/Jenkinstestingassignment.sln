@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookeventapplication", "Bookeventapplication\Bookeventapplication.csproj", "{C19053D1-1328-4A25-9EC8-BB039EBD026E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bookeventapplication", "Bookeventapplication\Bookeventapplication.csproj", "{C19053D1-1328-4A25-9EC8-BB039EBD026E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsTesting", "JenkinsTesting\JenkinsTesting.csproj", "{02F719EB-58CB-4256-80F7-6206F654FD41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C19053D1-1328-4A25-9EC8-BB039EBD026E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C19053D1-1328-4A25-9EC8-BB039EBD026E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C19053D1-1328-4A25-9EC8-BB039EBD026E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02F719EB-58CB-4256-80F7-6206F654FD41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F719EB-58CB-4256-80F7-6206F654FD41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F719EB-58CB-4256-80F7-6206F654FD41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F719EB-58CB-4256-80F7-6206F654FD41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
